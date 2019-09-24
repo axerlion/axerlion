@@ -1,8 +1,8 @@
-Origin: dragonslayer4832's Repo
-Label: dragonslayer4832
+Origin: axerlion
+Label: repolabel
 Suite: stable
 Version: 1.0
-Codename: dragonslayer4832
-Architecture: iphoneos-arm
+Codename: cydia-ios
+Architectures: iphoneos-arm
 Components: main
-Description: Tweaks I find useful :) If you want something taken down, PM me on reddit: /u/dragonslayer4832
+Description: description
