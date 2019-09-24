@@ -1,0 +1,31 @@
+<packageInfo>
+    <bundleId>ch.mdaus.exampletweak</bundleId>
+    <name>EnpassUnlock</name>
+    <version>0.0.2</version>
+    <descriptions>
+        <description>
+            Jailbreak detection bypass.
+        </description>
+        <description>
+            For Enpass app.
+        </description>
+    </descriptions>
+    <compatibility>
+        <miniOS>11.0</miniOS>
+        <maxiOS>11.1.2</maxiOS>
+    </compatibility>
+    <dependencies>
+        <dependency>mobilesubstrate</dependency>
+    </dependencies>
+    <changelog>
+        <change>
+            <changeVersion>V0.0.2 </changeVersion>
+            <changeDescription>Added actual code</changeDescription>
+            <changeDescription>Updated depiction</changeDescription>
+        </change>
+        <change>
+            <changeVersion>V0.0.1</changeVersion>
+            <changeDescription>Initial Release</changeDescription>
+        </change>
+    </changelog>
+</packageInfo>
